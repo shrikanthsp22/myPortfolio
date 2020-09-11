@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name": "Shrikanth P S",
+    "occupation": "ReactJS Developer at Techchefs- A virtusa company",
+    "description": "Worked on INTUIT Quick Books Self Employed, ACCENTURE Life Sciences Hub and much more",
+    "image": "sps.jpeg",
+    "bio": "My name is Shrikanth, I'm a ReactJS Developer. I'm currently working at Techchefs for Intuit QuickBooks. I have extensive experience in building front end projects. ",
+    "contactmessage": "Looking forward to amazing opportunities",
+    "email": "shrikanthsp22@gmail.com",
+    "phone": "+91 9591062311",
+    "address": {
+      "street": "",
+      "city": "Bengaluru",
+      "state": "India",
+      "zip": "560060"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1KMir_puE7iBiNk0Kah6JdcpG5L5D5eeD/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Shrikanth.P.S",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shrikanthps/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sps__photos/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shrikanthsp22",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here's what I have worked on. This list is surely getting longer!",
+    "education": [
+      {
+        "school": "JSS Academy of Technical Education",
+        "degree": "Bachelor of Engineering",
+        "graduated": "2013- 2017",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Techchefs- A Virtusa Company",
+        "title": "Sr. Software Engineer",
+        "years": "October 2019 - Present",
+        "description": [
+          "- Worked on the Subscribe/ Resubscribe for 'Quick Books Self- Employed( QBSE)' using React Hooks, Apollo client, etc.",
+          "- Built multiple workflow pages such as Upgrade, Downgrade and Switch to Quick Books Online (QBO).",
+          "- Created re-usable sku selector util page.",
+          "- Handled the Payment page and its functionality for QBO.",
+          "- Wrote Unit Test cases for the code to ensure production ready code using Jest & Enzyme.",
+          "- Built a React-Redux module to view the segmentation of the users and perform various tasks on the same.",
+          "- Worked on building Resiliant UI and error handling and providing Degraded experience to the user.",
+          "- Build a analytic tracking util to track user actions, clicks and behaviour"
+        ],
+        "contact": "Ramith Koyambrath ( Manager) - +91 9986055696"
+      },
+      {
+        "company": "Accenture",
+        "title": "Software Engineer",
+        "years": "Sep 2017 - October 2019",
+        "description": [
+          "- Built a Front end Application to view and navigate Life science research data for a Pharmaceutical client using HTML, CSS and Javascript.",
+          "- Built Python automation scripts to reduce manual effort.",
+          "- Monitoring Application performance, Browsing and Analysing Data.",
+          "- Automation to automate the user management process.",
+          "- Performing Pre & Post patching activities and working to keep the Application Online.",
+          "- Interaction with the client.",
+          "- Resolving Bugs, Issues, Upgrading systems, applying hot fixes and other changes.",
+          "- Document/Process systems security groups and user accounts for active directory."
+        ],
+        "contact": "Pavan KrishnaRao Patil( Manager) - +91 6360555104"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Javascript- ES6",
+        "level": "85%"
+      },
+      {
+        "name": "Apollo Hooks , Redux, React Context API",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Unit Testing - JEST and Enzyme",
+        "level": "65%"
+      },
+      {
+        "name": "JIRA",
+        "level": "80%"
+      },
+      {
+        "name": "Confluence/ Wiki",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Cropper- Image Cropper and uploader",
+        "category": "Took that takes in images of 1024 X 1024 and provides custom and default crops.",
+        "image": "cropper.png",
+        "url": "https://cropit.netlify.app/"
+      },
+      {
+        "title": "SpotifyClone",
+        "category": "SpotifyClone - In Progress",
+        "image": "spotify.png",
+        "url": "https://spotify-sps-1.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Fantastic work and delivered well. Keep up the good work.",
+        "user": "Suresh D- Manger, Intuit"
+      },
+      {
+        "text": "Creative, hardworking and a humble down to the earth person. One would be lucky to have him in his/her team.",
+        "user": "Basavaraj Nandyal"
+      }
+    ]
+  }
+}
